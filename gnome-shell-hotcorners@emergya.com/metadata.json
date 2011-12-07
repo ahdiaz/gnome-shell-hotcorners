@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.2"],
+    "uuid": "gnome-shell-hotcorners@emergya.com",
+    "name": "gnome-shell-hotcorners",
+    "description": "Change the hot corners position or hide them.",
+    "url": "http://www.guadalinex.org"
+}

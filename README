@@ -1,0 +1,23 @@
+
+Abstract
+--------
+
+GnomeShell HotCorners allows to change the hot corners position or hide them.
+
+The HotCorners feature is disabled by default. If you want this feature to come
+back, change the value of the UPDATE_HOT_CORNERS constant in extension.js
+
+See http://www.guadalinex.org/
+
+Installation
+------------
+
+ * Copy the extension directory under ~/.local/share/gnome-shell/extensions/
+ * Restart the shell: ALT + F2, type "r" and press ENTER.
+ * You are ready to go.
+
+License
+-------
+
+This project is licensed under the terms of the GPL v2.0,
+see http://www.gnu.org/licenses/gpl-2.0.html
